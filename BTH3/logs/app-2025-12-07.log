@@ -1,0 +1,28 @@
+2025-12-07 23:04:08 [info] : Server started on port 3000
+2025-12-07 23:04:08 [error] : Error: Access denied for user 'root'@'localhost' (using password: YES)
+    at Packet.asError (D:\Thuchanhapi\BTH_WebAPI\BTH3\node_modules\mysql2\lib\packets\packet.js:740:17)
+    at ClientHandshake.execute (D:\Thuchanhapi\BTH_WebAPI\BTH3\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (D:\Thuchanhapi\BTH_WebAPI\BTH3\node_modules\mysql2\lib\base\connection.js:477:34)
+    at PacketParser.onPacket (D:\Thuchanhapi\BTH_WebAPI\BTH3\node_modules\mysql2\lib\base\connection.js:93:12)
+    at PacketParser.executeStart (D:\Thuchanhapi\BTH_WebAPI\BTH3\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (D:\Thuchanhapi\BTH_WebAPI\BTH3\node_modules\mysql2\lib\base\connection.js:100:25)
+    at Socket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+2025-12-07 23:17:28 [info] : Server started on port 3000
+2025-12-07 23:17:28 [error] : Error: Access denied for user 'root'@'localhost' (using password: YES)
+    at Packet.asError (D:\Thuchanhapi\BTH_WebAPI\BTH3\node_modules\mysql2\lib\packets\packet.js:740:17)
+    at ClientHandshake.execute (D:\Thuchanhapi\BTH_WebAPI\BTH3\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (D:\Thuchanhapi\BTH_WebAPI\BTH3\node_modules\mysql2\lib\base\connection.js:477:34)
+    at PacketParser.onPacket (D:\Thuchanhapi\BTH_WebAPI\BTH3\node_modules\mysql2\lib\base\connection.js:93:12)
+    at PacketParser.executeStart (D:\Thuchanhapi\BTH_WebAPI\BTH3\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (D:\Thuchanhapi\BTH_WebAPI\BTH3\node_modules\mysql2\lib\base\connection.js:100:25)
+    at Socket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+2025-12-07 23:40:19 [info] : Server started on port 3000
+2025-12-07 23:40:19 [info] : MySQL connected successfully
+2025-12-07 23:41:52 [info] : Server started on port 3000
+2025-12-07 23:41:52 [info] : MySQL connected successfully
